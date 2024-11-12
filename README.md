@@ -1,7 +1,6 @@
-# simple-vue-comment-form
-Primeiro projeto de estudo com Vue.js: Um formulário simples para inserir e listar comentários, com funcionalidades básicas para adicionar e excluir.
+# simple-vue-comment-form vuejs-cli
 
-# vuejs-cli
+Primeiro projeto de estudo com Vue.js: Um formulário simples para inserir e listar comentários, com funcionalidades básicas para adicionar e excluir.
 
 ## Project setup
 ```
